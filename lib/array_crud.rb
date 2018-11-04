@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-friends = ["kris","mike","jeff","ben","alex"]
+friends = ["kris","mike","jeff","ben"]
 end
 
 def add_element_to_end_of_array(array, element)
