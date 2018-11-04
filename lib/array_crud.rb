@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 friends << "julien"
-puts friends.inspect
+
 end
 
 def add_element_to_start_of_array(array, element)
